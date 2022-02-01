@@ -8,7 +8,9 @@ Python Web Version 3.0 Using PyQty module
 
 in here,
 <br>
-browserUi.ui file for ui style and browser gui editing 
+browserUi.ui file for ui style and browser gui editing using QTdesigner 
+browserUi.py file for ui file in code(code for gui)
+main 
 
 
 <br>
