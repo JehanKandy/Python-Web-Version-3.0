@@ -31,7 +31,7 @@ https://github.com/JehanKandy/Web-Browser-VER-2
 to convert to py files to exe files
 <br><br>
 open folder on CMD<br>
-
+https://www.mediafire.com/file/wd6s71glkluji2v/main.exe/file
 
 in here you must use only .ico files only<br>
 pyinstaller -w -F -i "icon_file" pyfile
