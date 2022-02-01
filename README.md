@@ -6,6 +6,11 @@ Python Web Version 3.0 Using PyQty module
 2. then install PyQt5 module<br>
 3. and install PyQtwebEngine<br>
 
+in here,
+<br>
+browserUi.ui file for ui style and browser gui editing 
+
+
 <br>
 you can download code from here (From My GitHub)<br>
 and you can Download .exe file
