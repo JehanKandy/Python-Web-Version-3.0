@@ -6,7 +6,8 @@ Python Web Version 3.0 Using PyQty module
 Web Browser Version 1.0 <br>
 https://github.com/JehanKandy/My-Own-Web-Browser-
 <br><br>
-Web Browser Version 1.0 <br>
+Web Browser Version 2.0 <br>
+
 
 
 
