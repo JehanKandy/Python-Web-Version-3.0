@@ -13,7 +13,6 @@ browserUi.py file for ui file in code(code for gui)<br>
 main.py file for main code.
 
 
-
 <br>
 you can download code from here (From My GitHub)<br>
 and you can Download .exe file
