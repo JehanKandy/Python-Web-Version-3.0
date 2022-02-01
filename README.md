@@ -2,6 +2,9 @@
 Python Web Version 3.0 Using PyQty module 
 <br>
 <br>
+1. you have to install pyinstaller module<br>
+2. then install PyQt5 module<br>
+3. and install PyQtwebEngine<br>
 
 Web Browser Version 1.0 <br>
 https://github.com/JehanKandy/My-Own-Web-Browser-
