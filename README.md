@@ -10,7 +10,8 @@ in here,
 <br>
 browserUi.ui file for ui style and browser gui editing using QTdesigner <br>
 browserUi.py file for ui file in code(code for gui)<br>
-main 
+main.py file for main code.
+
 
 
 <br>
